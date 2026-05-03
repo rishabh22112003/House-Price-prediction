@@ -4,6 +4,8 @@ A **machine learning–based House Price Prediction application** built using **
 The app allows users to input house features and predicts the **estimated house price in real time** using a trained regression model.
 
 ---
+## live demo
+https://house-price-prediction-live-2003.streamlit.app
 
 ## 🔍 Project Overview
 This project predicts house prices based on important features such as **lot area, overall quality, year built, and basement size**.  
